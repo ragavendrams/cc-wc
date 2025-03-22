@@ -1,4 +1,4 @@
-
+[![Tests](https://github.com/ragavendrams/cc-wc/actions/workflows/cmake-single-platform.yml/badge.svg?branch=master)](https://github.com/ragavendrams/cc-wc/actions/workflows/cmake-single-platform.yml)
 # Unix ccwc commandline tool 
 
 ## Overview
