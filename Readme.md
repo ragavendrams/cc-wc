@@ -15,7 +15,11 @@ The application supports the following command-line options:
 
 ## Usage
 To build and run the application, follow these steps:
-
+0. **Setup environment**
+   ```sh
+   # From ubuntu:22.04, run the following
+   sudo apt update && sudo apt install -y cmake g++ 
+   ```
 1. **Clone the Repository**:
    ```sh
    git clone <repository_url> 
